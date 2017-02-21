@@ -1,0 +1,7 @@
+/*color pallet adapted from http://www.colourlovers.com/palette/149154/Purple_Frog*/
+body{background-color: rgb(241,241,220)}
+td{text-align: left; width: 100px;}
+th{text-align: left; text-decoration: bold; text-decoration: underline;}
+tr.odd{background-color: rgb(70,71,43); color: rgb(241,241,220)}
+tr.even{background-color: rgb(181,182,144); color: rgb(59,49,49)}
+td:hover{background-color: rgb(143,8,83); color:rgb(241,241,220)}
